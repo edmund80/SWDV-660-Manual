@@ -1,0 +1,5 @@
+const HelloJenkins = () => {
+    console.log('Hello Manual Jenkins Job!!');
+}
+
+HelloJenkins();
